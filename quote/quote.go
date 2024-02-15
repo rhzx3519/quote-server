@@ -45,7 +45,6 @@ func NewPool() (*Pool, error) {
 
 func (p *Pool) Start() error {
 	var err error
-
 	return err
 }
 
